@@ -13,4 +13,4 @@ How it works:
 2.Click an article to load it in the viewer
 3.Write your criteria in the box on the right
 4.Mark it YES or NO
-5.Hit Copy to grab your results
+5.Hit Copy to grab your results. 
